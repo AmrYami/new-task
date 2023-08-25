@@ -24,4 +24,6 @@ still working on this project to make it perfect
 
 9-every user has its own profile and can update its own data if he has permissions.
 
+10- admin can create tasks and assign them to users
+
 used solid, hmvc, design patterns and repository design pattern, controllers just call service , service has logic, service call repository ,repo manage all connections with database and every service and repo has its own interfaces and abstraction to restrict everything and used solid principles in all modules, classes and functions.
