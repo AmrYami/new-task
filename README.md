@@ -1,4 +1,5 @@
 # BaseModule
+copy .env.example to .env and set variables for you db
 first just you need to do composer update then do php artisan migrate --seed
 create directory public/upload/media
 table users using engine myisam to use full text search
